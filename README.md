@@ -5,6 +5,7 @@ student profile, creation of scribe requests, applying to scribe requests, etc. 
 and scribe app.
 
 Scribe app: https://github.com/prithviraj2002/scribe-app/tree/main
+
 Student app: https://github.com/prithviraj2002/student-app/tree/main
 
 ## Tech stack
